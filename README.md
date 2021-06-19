@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Guillermo i am from ARgentina
+- 👋 Hi, I’m Guillermo i am from Argentina
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
